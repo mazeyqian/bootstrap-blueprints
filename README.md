@@ -1,3 +1,1 @@
-# douban-read
-Hi, i'm Mazey.
-Learn Bootstrap!
+# Bootstrap实战 - 从零开始边学边练
