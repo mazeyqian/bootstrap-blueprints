@@ -32,7 +32,6 @@ function loadWaterfall(boxID,thumbnailClass){
             thumbnail[i].style.left = thumbnail[minIndex].offsetLeft + 'px';
             //更新最小高度
             thumbnailHeightArr[minIndex] = thumbnailHeightArr[minIndex] + thumbnail[i].offsetHeight;
-            //简写：thumbnailHeightArr[minIndex] += thumbnail[i].offsetHeight;
         }
     }
 }
