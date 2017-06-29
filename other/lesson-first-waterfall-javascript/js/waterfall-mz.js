@@ -31,7 +31,7 @@ function loadWaterfall(boxID,thumbnailClass){
             //距离左边长度为这个缩略图上面那个缩略图距离左边的长度
             thumbnail[i].style.left = thumbnail[minIndex].offsetLeft + 'px';
             //更新最小高度
-            thumbnailHeightArr[minIndex] = thumbnailHeightArr[minIndex] + thumbnail[i].offsetHeight;
+            thumbnailHeightArr[minIndex] += thumbnail[i].offsetHeight;
         }
     }
 }
