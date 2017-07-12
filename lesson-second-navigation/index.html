@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang=zh-cmn-Hans>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<!--BootstrapCSS文件，放在<head>内-->
+        <link type="text/css" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+        <!--jQuery文件，引入BootstrapJS插件前必需引入-->
+        <script language="javascript" type="text/javascript" src="http://libs.baidu.com/jquery/1.9.1/jquery.min.js"></script>
+        <!--BootstrapJS文件，一般放在底部-->
+        <script language="javascript" type="text/javascript" src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <!--让IE使用最新的渲染模式，支持CSS3-->
+        <meta http-equiv="X-UA-Compatible" content="IE-edge,chrome=1">
+        <!--如果IE版本低于IE9，使浏览器支持HTML5和CSS3-->
+        <!--[if lt IE 9]>
+        <script src="http://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+        <script src="http://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]--> 
+        <link rel="stylesheet" href="css/style.css" />
+	</head>
+	<body>
+	    <nav class="container-fluid">
+	        <div class="row">
+        	    <div class="navbar navbar-default col-md-12" role="navigation">
+                    <div class="navbar-header">
+                        <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navigation-collapse">
+                          <span class="sr-only">Toggle Navigation</span>
+                          <span class="icon-bar"></span>
+                          <span class="icon-bar"></span>
+                          <span class="icon-bar"></span>
+                        </button>
+                        <a href="#" class="navbar-brand">后除</a>
+                    </div>
+                    <div class="collapse navbar-collapse" id="navigation-collapse">
+                        <ul class="nav navbar-nav">
+                            <li class="active"><a href="#">Navigation First</a></li>
+                            <li><a href="#">Navigation Second</a></li>
+                            <li><a href="#">Navigation Third</a></li>
+                            <li><a href="#">Navigation Fourth</a></li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                                    Navigation Fifth <span class="caret"></span>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="#">Sub-Navigation First</a></li>
+                                        <li><a href="#">Sub-Navigation Second</a></li>
+                                        <li><a href="#">Sub-Navigation Third</a></li>
+                                    </ul>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <section class="container-fluid">
+            <div class="row">
+                <div id="my-banner" class="carousel slide col-md-12" data-ride="carousel" data-interval="3000" data-pause="false">
+                    <!--放置小圆点，点击可以切换轮播-->
+                    <ol class="carousel-indicators">
+                        <!--加上样式active表示默认显示的轮播，data-slide-to="0"属性表示显示轮播的顺序-->
+                        <li data-target="#my-banner" data-slide-to="0" class="active"></li>
+                        <li data-target="#my-banner" data-slide-to="1"></li>
+                    </ol>
+                    <!--这里放置轮播显示的图片-->
+                    <div class="carousel-inner">
+                        <!--加上样式active表示默认显示的图片-->
+                        <div class="item active">
+                            <img src="http://www.mazey.net/img/upload/image/20170712/b1.jpg" alt="轮播">
+                            <div class="carousel-caption">
+                                <h5>夜里总是下雨</h5>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="http://www.mazey.net/img/upload/image/20170712/b2.jpg" alt="轮播">
+                            <div class="carousel-caption">
+                                <h5>后除提醒君の世界</h5>
+                            </div>
+                        </div>
+                    </div>
+                    <!--<a>元素的href指向轮播id-->
+                    <a class="left carousel-control" href="#my-banner" data-slide="prev" role="button">
+                        <span class="glyphicon glyphicon-chevron-left"></span>
+                    </a>
+                    <a class="right carousel-control" href="#my-banner"  data-slide="next" role="button">
+                        <span class="glyphicon glyphicon-chevron-right"></span>
+                    </a>
+                </div>
+        </section>
+        <aside class="container-fluid">
+            <div class="row">
+                <div class="col-md-6 col-xs-12 new text-center">新闻</div>
+                <div class="col-md-6 col-xs-12 info text-center">资讯</div>
+            </div>
+        </aside>
+	</body>
+</html>

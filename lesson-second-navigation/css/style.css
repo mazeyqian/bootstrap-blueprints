@@ -1,0 +1,14 @@
+#my-banner{
+    padding: 0px;
+}
+.navbar{
+    margin-bottom: 0;
+}
+.new{
+    background: #9FCFDD;
+    height: 200px;
+}
+.info{
+    background: #E5E5E5;
+    height: 200px;
+}

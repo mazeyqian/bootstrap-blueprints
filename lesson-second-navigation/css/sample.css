@@ -1,0 +1,25 @@
+body{
+    width: 80%;
+    margin: 0 auto;
+}
+.between{
+    width: 100%;
+    height: 100px;
+}
+.navigation-past{
+    list-style: none;
+}
+.navigation-past>li{
+    float: left;
+    padding: 8px;
+}
+.navigation-past>li>a{
+    text-decoration: none;
+    color: #000;
+}
+.active-past{
+    background: #E7E7E7;
+}
+#my-banner{
+    margin-bottom:50px ;
+}
