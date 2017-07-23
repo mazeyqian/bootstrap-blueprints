@@ -1,0 +1,20 @@
+body{
+    padding-top: 50px;
+}
+.hidden-mz{
+    visibility: hidden;
+}
+.visible-mz{
+    visibility: visible;
+}
+.login{
+    border: 1px solid #ddd;
+    padding: 5px;
+    border-radius: 4px;
+}
+.login>div{
+    border: solid #ddd;
+    border-width: 0 1px 1px 1px;
+    padding-top:15px ;
+    border-radius: 0 0 4px 4px;
+}
