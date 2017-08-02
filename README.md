@@ -4,3 +4,5 @@
 - [JavaScript](https://github.com/mazeyqian/douban-bootstrap/tree/master/other/lesson-first-waterfall-javascript)
 ## 响应式布局
 - [Link](https://github.com/mazeyqian/douban-bootstrap/tree/master/lesson-second-navigation)
+## 注册和登录
+- [Link](https://github.com/mazeyqian/douban-bootstrap/tree/master/lesson-third-login)
