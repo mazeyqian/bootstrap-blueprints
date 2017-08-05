@@ -1,0 +1,51 @@
+.log-list{
+    margin-top: 20px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 4px;
+}
+.log-list>ul>li:hover>div:last-child>a:nth-of-type(n+2){
+    display: block;
+}
+.log-list a{
+    text-decoration: none;
+}
+.log-list>ul>li>div>a>img{
+    width: 50px;
+}
+.log-list>ul>li>div>h5{
+    background-color: rgb(242, 251, 242);
+    padding: 2px 4px;
+    color: #666;
+}
+.log-list>ul>li>div>h5>a{
+    color: #669;
+}
+.log-list>ul>li>div>h5>a:hover{
+    color:#fff;
+    background-color: rgb(51, 119, 170);
+}
+.log-list>ul>li>hr{
+    margin: 0;
+}
+.log-list>ul>li>div>p:nth-of-type(1){
+    color: #111;
+    margin-top: 10px;
+}
+.log-list>ul>li>div:last-child>a:nth-of-type(n+1){
+    color: #bbb;
+    cursor: pointer;
+    /*padding: 5px 0;*/
+    border:1px solid transparent;
+}
+.log-list>ul>li>div:last-child>a:nth-of-type(n+2){
+    display: none;
+    margin-left: 3px;
+}
+.log-list>ul>li>div:last-child>a:nth-of-type(n+1):hover{
+    background-color: rgb(187, 187, 187);
+    color: rgb(255, 255, 255);
+}
+/*.log-from{*/
+    /*color: #bbb;*/
+/*}*/
