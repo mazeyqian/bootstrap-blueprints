@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="112c51ce-8f3e-4401-a1b6-64596ef7d232" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson-fifth-singlepage/.idea/20170819.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson-fifth-singlepage/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson-fifth-singlepage/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson-fifth-singlepage/201708272306.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson-fifth-singlepage/test.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson-fifth-singlepage/css/style.css" afterPath="$PROJECT_DIR$/lesson-fifth-singlepage/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson-fifth-singlepage/index.html" afterPath="$PROJECT_DIR$/lesson-fifth-singlepage/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,17 +17,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lesson-fifth-singlepage/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="319">
+              <caret line="70" column="69" lean-forward="false" selection-start-line="70" selection-start-column="69" selection-end-line="70" selection-end-column="69" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sample.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson-fifth-singlepage/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="523">
+              <caret line="44" column="14" lean-forward="false" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sample.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson-fifth-singlepage/sample.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
@@ -45,6 +51,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lesson-fifth-singlepage/index.html" />
+        <option value="$PROJECT_DIR$/lesson-fifth-singlepage/css/style.css" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -86,6 +100,12 @@
               <item name="douban-bootstrap" type="462c0819:PsiDirectoryNode" />
               <item name="lesson-fifth-singlepage" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="douban-bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="douban-bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson-fifth-singlepage" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -120,12 +140,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1503847208953</updated>
-      <workItem from="1503847210453" duration="697000" />
+      <workItem from="1503847210453" duration="2543000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="697000" />
+    <option name="totallyTimeSpent" value="2543000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
@@ -168,18 +188,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson-fifth-singlepage/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson-fifth-singlepage/sample.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="66" lean-forward="true" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson-fifth-singlepage/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="44" column="14" lean-forward="false" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson-fifth-singlepage/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="70" column="69" lean-forward="false" selection-start-line="70" selection-start-column="69" selection-end-line="70" selection-end-column="69" />
           <folding />
         </state>
       </provider>
