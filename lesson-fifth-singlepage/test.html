@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <!--jQuery文件，引入BootstrapJS插件前必需引入-->
+    <script language="javascript" type="text/javascript" src="http://libs.baidu.com/jquery/1.9.1/jquery.min.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <style>
+        .scrollspy{
+
+        }
+        .scrollspy>div{
+            height: 500px;
+            font-size: 100px;
+        }
+        body{
+            padding-top: 60px;
+            position: relative;
+        }
+    </style>
+</head>
+<!--滚动条-->
+<body data-spy="scroll" data-target="#nav-menu" data-offset="60">
+<!--代码部分-->
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation" id="nav-menu">
+    <div class="container">
+        <div class="navbar-header">
+            <!--以下为固定写法，用到的时候复制粘贴即可-->
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navigation-collapse">
+                <span class="sr-only">Toggle Navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="#" class="navbar-brand">LOGO</a>
+        </div>
+        <div class="collapse navbar-collapse" id="navigation-collapse">
+            <ul class="nav navbar-nav">
+                <li><a href="#first">Navigation First</a></li>
+                <li><a href="#second">Navigation Second</a></li>
+                <li><a href="#third">Navigation Third</a></li>
+                <li><a href="#fourth">Navigation Fourth</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                        Navigation Fifth <span class="caret"></span>
+                        <ul class="dropdown-menu">
+                            <li><a href="#">Sub-Navigation First</a></li>
+                            <li><a href="#">Sub-Navigation Second</a></li>
+                            <li><a href="#">Sub-Navigation Third</a></li>
+                        </ul>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<div class="container-fluid scrollspy">
+    <div id="first">
+        <p>first</p>
+    </div>
+    <div id="second">
+        <p>second</p>
+    </div>
+    <div id="third">
+        <p>third</p>
+    </div>
+    <div id="fourth">
+        <p>fourth</p>
+    </div>
+</div>
+</body>
+</html>
