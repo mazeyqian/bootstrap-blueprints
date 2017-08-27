@@ -1,0 +1,35 @@
+body {
+    padding-top:60px;
+    font-family: "Helvetica Neue",Helvetica,"Hiragino Sans GB",STHeiti,"Microsoft YaHei","Wenquanyi Micro Hei","WenQuanYi Micro Hei Mono","WenQuanYi Zen Hei","WenQuanYi Zen Hei Mono",sans-serif;
+}
+#first {
+    height: 600px;
+    background: url(https://img3.doubanio.com/f/frodo/7c68e1a0d2a51e99096a722dcb82fac485b7bd88/pics/app/pic01.png) -60% center no-repeat;
+    background-size: 80%;
+}
+div {
+    /*border: 1px solid #ddd;*/
+}
+.logo {
+    width: 100%;
+    height:200px;
+    padding-top: 73px;
+}
+.logo > img {
+    width: 117px;
+}
+.logo + div {
+    width: 100%;
+    height:114px;
+}
+.logo + div > h3 > span {
+    font-size: 27px;
+}
+.logo + div + div {
+    width: 100%;
+    height: 186px;
+    /*padding-top: 50px;*/
+}
+.logo + div + div > img {
+    width: 90px;
+}

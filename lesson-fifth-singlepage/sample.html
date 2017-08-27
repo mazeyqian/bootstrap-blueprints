@@ -2,11 +2,14 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
-    <link rel="stylesheet" href="css/bootstrap.css">
-    <!--jQuery文件，引入BootstrapJS插件前必需引入-->
-    <script language="javascript" type="text/javascript" src="http://libs.baidu.com/jquery/1.9.1/jquery.min.js"></script>
-    <script src="js/bootstrap.js"></script>
+    <title>Bootstrap实战 - 滚动监听</title>
+    <meta name="description" content="后除的Bootstrap实战，从零开始边学边练！" />
+    <meta name="keywords" content="Bootstrap|Bootstrap实战|从零开始|边学边练|后除|后除的后厨|不知不问|钱程|程程|Mazey|MazeyQian|博客|代码|编程|读书|旅行|中医|画画" />
+    <!--Mazey's jQuery-->
+    <script language="javascript" type="text/javascript" src="http://www.mazey.net/js/plugin/jquery/jquery-2.1.1.min.js"></script>
+    <!--Mazey's Bootstrap-->
+    <link type="text/css" href="http://www.mazey.net/config/frame/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <script language="javascript" type="text/javascript" src="http://www.mazey.net/config/frame/bootstrap/js/bootstrap.min.js"></script>
     <style>
         .scrollspy{
 
@@ -19,9 +22,12 @@
             padding-top: 60px;
             position: relative;
         }
+        #fifth>p{
+            height: 500px;
+        }
     </style>
 </head>
-<!--滚动条-->
+<!--监控对象: 滚动条-->
 <body data-spy="scroll" data-target="#nav-menu" data-offset="60">
 <!--代码部分-->
 <nav class="navbar navbar-default navbar-fixed-top" role="navigation" id="nav-menu">
@@ -46,9 +52,9 @@
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
                         Navigation Fifth <span class="caret"></span>
                         <ul class="dropdown-menu">
-                            <li><a href="#">Sub-Navigation First</a></li>
-                            <li><a href="#">Sub-Navigation Second</a></li>
-                            <li><a href="#">Sub-Navigation Third</a></li>
+                            <li><a href="#sub-first">Sub-Navigation First</a></li>
+                            <li><a href="#sub-second">Sub-Navigation Second</a></li>
+                            <li><a href="#sub-third">Sub-Navigation Third</a></li>
                         </ul>
                     </a>
                 </li>
@@ -57,17 +63,22 @@
     </div>
 </nav>
 <div class="container-fluid scrollspy">
-    <div id="first">
+    <div id="first" class="bg-primary">
         <p>first</p>
     </div>
-    <div id="second">
+    <div id="second" class="bg-success">
         <p>second</p>
     </div>
-    <div id="third">
+    <div id="third" class="bg-info">
         <p>third</p>
     </div>
-    <div id="fourth">
+    <div id="fourth" class="bg-warning">
         <p>fourth</p>
+    </div>
+    <div id="fifth" class="bg-danger">
+        <p id="sub-first" class="bg-success">Sub-Navigation First</p>
+        <p id="sub-second" class="bg-info">Sub-Navigation Second</p>
+        <p id="sub-third" class="bg-warning">Sub-Navigation Third</p>
     </div>
 </div>
 </body>

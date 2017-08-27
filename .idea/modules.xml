@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/20170819.iml" filepath="$PROJECT_DIR$/.idea/20170819.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/douban-bootstrap.iml" filepath="$PROJECT_DIR$/.idea/douban-bootstrap.iml" />
     </modules>
   </component>
 </project>
