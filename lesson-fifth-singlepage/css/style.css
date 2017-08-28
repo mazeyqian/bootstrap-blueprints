@@ -1,6 +1,7 @@
 body {
     padding-top:60px;
     font-family: "Helvetica Neue",Helvetica,"Hiragino Sans GB",STHeiti,"Microsoft YaHei","Wenquanyi Micro Hei","WenQuanYi Micro Hei Mono","WenQuanYi Zen Hei","WenQuanYi Zen Hei Mono",sans-serif;
+    position: relative;
 }
 #first, #second, #third, #fourth, #fifth {
     height: 600px;
