@@ -5,7 +5,7 @@ body{
 }
 #container>div{
     width:var(--img-width);
-    //margin: 0 0 70px 0;
+    /* margin: 0 0 70px 0; */
     height:100%;
     overflow: auto;
 }
@@ -31,6 +31,6 @@ body{
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
     background-color: #fff!important;
 }
-.navbar｛
-    margin-bottom:10px!important;
-｝
+.navbar {
+    margin-bottom: 10px!important;
+}
