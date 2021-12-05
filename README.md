@@ -6,15 +6,15 @@
 
 **1\. CSS3 实现**
 
-在线访问：[#](#)
+在线访问：[https://mazey.cn/bootstrap-blueprints/lesson-first-waterfall/index.html](https://mazey.cn/bootstrap-blueprints/lesson-first-waterfall/index.html)
 
-案例代码：[https://github.com/mazeyqian/douban-bootstrap/tree/master/lesson-first-waterfall](https://github.com/mazeyqian/douban-bootstrap/tree/master/lesson-first-waterfall)
+案例代码：[https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-first-waterfall](https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-first-waterfall)
 
 **2\. JavaScript 实现**
 
-在线访问：[#](#)
+在线访问：[https://mazey.cn/bootstrap-blueprints/lesson-first-waterfall-javascript/index.html](https://mazey.cn/bootstrap-blueprints/lesson-first-waterfall-javascript/index.html)
 
-案例代码：[https://github.com/mazeyqian/douban-bootstrap/tree/master/other/lesson-first-waterfall-javascript](https://github.com/mazeyqian/douban-bootstrap/tree/master/other/lesson-first-waterfall-javascript)
+案例代码：[https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-first-waterfall-javascript](https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-first-waterfall-javascript)
 
 ## 响应式布局
 
