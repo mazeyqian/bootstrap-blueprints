@@ -12,22 +12,20 @@
 
 **2\. JavaScript 实现**
 
-在线访问：[https://mazey.cn/bootstrap-blueprints/lesson-first-waterfall-javascript/index.html](https://mazey.cn/bootstrap-blueprints/lesson-first-waterfall-javascript/index.html)
-
 案例代码：[https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-first-waterfall-javascript](https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-first-waterfall-javascript)
 
 ## 响应式布局
 
-- [案例代码](https://github.com/mazeyqian/douban-bootstrap/tree/master/lesson-second-navigation)
+案例代码：[https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-second-navigation](https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-second-navigation)
 
 ## 注册和登录
 
-- [案例代码](https://github.com/mazeyqian/douban-bootstrap/tree/master/lesson-third-login)
+案例代码：[https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-third-login](https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-third-login)
 
 ## 评论列表
 
-- [案例代码](https://github.com/mazeyqian/douban-bootstrap/tree/master/lesson-fourth-comment)
+案例代码：[https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-fourth-comment](https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-fourth-comment)
 
 ## 单页面网站
 
-- [案例代码](https://github.com/mazeyqian/douban-bootstrap/tree/master/lesson-fifth-singlepage)
+案例代码：[https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-fifth-singlepage](https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-fifth-singlepage)
