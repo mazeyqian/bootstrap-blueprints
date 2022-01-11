@@ -14,7 +14,9 @@
 
 案例代码：[https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-first-waterfall-javascript](https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-first-waterfall-javascript)
 
-## 响应式布局
+## [响应式布局](https://blog.mazey.net/2575.html)
+
+在线访问：[https://mazey.cn/bootstrap-blueprints/lesson-second-navigation/index.html](https://mazey.cn/bootstrap-blueprints/lesson-second-navigation/index.html)
 
 案例代码：[https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-second-navigation](https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-second-navigation)
 
