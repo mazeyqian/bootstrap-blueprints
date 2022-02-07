@@ -20,11 +20,15 @@
 
 案例代码：[https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-second-navigation](https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-second-navigation)
 
-## 注册和登录
+## [注册和登录](https://blog.mazey.net/2594.html)
+
+在线访问：[https://mazey.cn/bootstrap-blueprints/lesson-third-login/index.html](https://mazey.cn/bootstrap-blueprints/lesson-third-login/index.html)
 
 案例代码：[https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-third-login](https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-third-login)
 
-## 评论列表
+## [评论列表](https://blog.mazey.net/2613.html)
+
+在线访问：[https://mazey.cn/bootstrap-blueprints/lesson-fourth-comment/index.html](https://mazey.cn/bootstrap-blueprints/lesson-fourth-comment/index.html)
 
 案例代码：[https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-fourth-comment](https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-fourth-comment)
 
