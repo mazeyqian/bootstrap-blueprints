@@ -32,6 +32,8 @@
 
 案例代码：[https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-fourth-comment](https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-fourth-comment)
 
-## 单页面网站
+## [单页面网站](https://blog.mazey.net/2671.html)
+
+在线访问：[https://mazey.cn/bootstrap-blueprints/lesson-fifth-singlepage/index.html](https://mazey.cn/bootstrap-blueprints/lesson-fifth-singlepage/index.html)
 
 案例代码：[https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-fifth-singlepage](https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-fifth-singlepage)
