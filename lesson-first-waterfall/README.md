@@ -340,7 +340,7 @@ body{
 }
 ```
 
-到这里我们的 Bootstrap 瀑布流布局就完成了，一步步完成下来还是很简单的，演示地址：[https://mazey.cn/bootstrap-blueprints/lesson-first-waterfall/index.html](https://mazey.cn/bootstrap-blueprints/lesson-first-waterfall/index.html)，源码地址：[https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-first-waterfall](https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-first-waterfall)。
+到这里我们的 Bootstrap 瀑布流布局就完成了，一步步完成下来还是很简单的，演示地址：[https://i.mazey.net/bootstrap-blueprints/lesson-first-waterfall/index.html](https://i.mazey.net/bootstrap-blueprints/lesson-first-waterfall/index.html)，源码地址：[https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-first-waterfall](https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-first-waterfall)。
 
 ### 3.3 扩展
 

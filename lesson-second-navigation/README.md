@@ -330,7 +330,7 @@ Glyphicons 字体图标使用示例：
 
 在新闻和资讯的盒子上同时加上样式 `col-xs-*`，`col-sm-*` 和 `col-md-*`，小屏时（屏幕宽度 ＜ 992px）`col-xs-*`，`col-sm-*` 生效，`col-md-*` 失效；大屏时（屏幕宽度 ≥ 992px）`col-md-*` 生效，`col-xs-*`，`col-sm-*` 失效。例如：`<div class="col-xs-12 col-sm-12 col-md-6">新闻</div><div class="col-xs-12 col-sm-12 col-md-6">资讯</div>`。
 
-演示地址：[https://mazey.cn/bootstrap-blueprints/lesson-second-navigation/index.html](https://mazey.cn/bootstrap-blueprints/lesson-second-navigation/index.html)，源码地址：[https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-second-navigation](https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-second-navigation)。
+演示地址：[https://i.mazey.net/bootstrap-blueprints/lesson-second-navigation/index.html](https://i.mazey.net/bootstrap-blueprints/lesson-second-navigation/index.html)，源码地址：[https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-second-navigation](https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-second-navigation)。
 
 **版权声明**
 

@@ -8,7 +8,7 @@
 
 **1\. CSS3 实现**
 
-在线访问：[https://mazey.cn/bootstrap-blueprints/lesson-first-waterfall/index.html](https://mazey.cn/bootstrap-blueprints/lesson-first-waterfall/index.html)
+在线访问：[https://i.mazey.net/bootstrap-blueprints/lesson-first-waterfall/index.html](https://i.mazey.net/bootstrap-blueprints/lesson-first-waterfall/index.html)
 
 案例代码：[https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-first-waterfall](https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-first-waterfall)
 
@@ -20,7 +20,7 @@
 
 响应式布局就是一个网站能够兼容多个终端，而不是为每个终端做一个特定的版本。这个概念是为解决移动互联网浏览而诞生的。导航栏与轮播在大部分网站的头部占很高的比重，特别是导航栏，扮演着网站地图的角色。在响应式布局中，要求导航栏能够根据终端屏幕大小显示不同的样式。
 
-在线访问：[https://mazey.cn/bootstrap-blueprints/lesson-second-navigation/index.html](https://mazey.cn/bootstrap-blueprints/lesson-second-navigation/index.html)
+在线访问：[https://i.mazey.net/bootstrap-blueprints/lesson-second-navigation/index.html](https://i.mazey.net/bootstrap-blueprints/lesson-second-navigation/index.html)
 
 案例代码：[https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-second-navigation](https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-second-navigation)
 
@@ -28,7 +28,7 @@
 
 注册和登录在社交和商业网站中是必不可少的一个部分。
 
-在线访问：[https://mazey.cn/bootstrap-blueprints/lesson-third-login/index.html](https://mazey.cn/bootstrap-blueprints/lesson-third-login/index.html)
+在线访问：[https://i.mazey.net/bootstrap-blueprints/lesson-third-login/index.html](https://i.mazey.net/bootstrap-blueprints/lesson-third-login/index.html)
 
 案例代码：[https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-third-login](https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-third-login)
 
@@ -36,7 +36,7 @@
 
 社交媒体网站盛行，人们常常会使用评论表达自己的观点，评论功能已然成为网站的一部分。
 
-在线访问：[https://mazey.cn/bootstrap-blueprints/lesson-fourth-comment/index.html](https://mazey.cn/bootstrap-blueprints/lesson-fourth-comment/index.html)
+在线访问：[https://i.mazey.net/bootstrap-blueprints/lesson-fourth-comment/index.html](https://i.mazey.net/bootstrap-blueprints/lesson-fourth-comment/index.html)
 
 案例代码：[https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-fourth-comment](https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-fourth-comment)
 
@@ -44,6 +44,6 @@
 
 单页面结构简单、布局清晰，常常用来做手机 App 或者某个产品的下载介绍页面。现在，展示型网页整体趋向于单页网站设计，这样一次性把核心信息展现出来，对于用户来说更加直观和简单，能够快速了解一个产品。
 
-在线访问：[https://mazey.cn/bootstrap-blueprints/lesson-fifth-singlepage/index.html](https://mazey.cn/bootstrap-blueprints/lesson-fifth-singlepage/index.html)
+在线访问：[https://i.mazey.net/bootstrap-blueprints/lesson-fifth-singlepage/index.html](https://i.mazey.net/bootstrap-blueprints/lesson-fifth-singlepage/index.html)
 
 案例代码：[https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-fifth-singlepage](https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-fifth-singlepage)
