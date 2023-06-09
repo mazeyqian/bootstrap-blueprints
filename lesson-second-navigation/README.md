@@ -224,10 +224,10 @@ Glyphicons 字体图标使用示例：
     <div class="carousel-inner">
         <!--加上样式active表示默认显示的图片-->
         <div class="item active">
-            <img src="http://www.mazey.net/img/upload/image/20170712/b1.jpg" alt="轮播">
+            <img src="//i.mazey.net/x/www/img/upload/image/20170712/b1.jpg" alt="轮播">
         </div>
         <div class="item">
-            <img src="http://www.mazey.net/img/upload/image/20170712/b2.jpg" alt="轮播">
+            <img src="//i.mazey.net/x/www/img/upload/image/20170712/b2.jpg" alt="轮播">
         </div>
     </div>
 </div>
@@ -286,13 +286,13 @@ Glyphicons 字体图标使用示例：
     <div class="carousel-inner">
         <!--加上样式active表示默认显示的图片-->
         <div class="item active">
-            <img src="http://www.mazey.net/img/upload/image/20170712/b1.jpg" alt="轮播">
+            <img src="//i.mazey.net/x/www/img/upload/image/20170712/b1.jpg" alt="轮播">
             <div class="carousel-caption">
                 <h5>夜里总是下雨</h5>
             </div>
         </div>
         <div class="item">
-            <img src="http://www.mazey.net/img/upload/image/20170712/b2.jpg" alt="轮播">
+            <img src="//i.mazey.net/x/www/img/upload/image/20170712/b2.jpg" alt="轮播">
             <div class="carousel-caption">
                 <h5>后除提醒君の世界</h5>
             </div>
