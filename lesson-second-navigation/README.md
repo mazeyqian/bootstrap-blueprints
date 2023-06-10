@@ -46,7 +46,7 @@
 
 效果图：
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/820373134.jpg)
+![](https://i.mazey.net/uploads/2022/01/820373134.jpg)
 
 使用 Bootstrap 的话，便是在熟悉的这个构造上加上一些修饰即可。首先在 `<ul>` 外面套一层 `<div>`，并加上样式 `navbar navbar-default`；然后给里面的 `<ul>` 加上样式 `nav navbar-nav`；最后，给选中的部分加上样式 `active`。一个最基本的 Bootstrap 导航便完成了。
 
@@ -65,7 +65,7 @@
 
 效果图：
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/820373230.jpg)
+![](https://i.mazey.net/uploads/2022/01/820373230.jpg)
 
 这里在最外层加了一个 `role="navigation"` 的属性，这里是 HTML5 的标签属性，目的是让标签语义化，方便屏幕阅读器对其进行识别，同时也是为了方便特殊人群浏览。
 
@@ -91,7 +91,7 @@
 
 效果图：
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/820373367.jpg)
+![](https://i.mazey.net/uploads/2022/01/820373367.jpg)
 
 有的时候一级导航是不够的，需要搭配二级导航展示更多的内容。使用方法：首先在需要加二级导航的 `<li>` 元素中添加样式 `dropdown`，`<a>` 元素中添加样式 `dropdown-toggle` 和属性 `data-toggle="dropdown"`；然后在 `<li>` 里面 `<a>` 下面在放一个 `<ul>` + `<li>` 组合，`<ul>` 标签添加样式 `dropdown-menu`。
 
@@ -122,7 +122,7 @@
 
 效果图：
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/820373419.jpg)
+![](https://i.mazey.net/uploads/2022/01/820373419.jpg)
 
 这里又出现新的属性 `aria-haspopup="true" aria-expanded="false"`，同样的，这也是 HTML5 新加的属性，这里引用 Segmentfault 社区姜中秋的回答。
 
@@ -152,7 +152,7 @@ Glyphicons 字体图标使用示例：
 
 效果图：
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/822103107.jpg)
+![](https://i.mazey.net/uploads/2022/01/822103107.jpg)
 
 注意：
 
@@ -201,7 +201,7 @@ Glyphicons 字体图标使用示例：
 
 效果图：
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/822103401.jpg)
+![](https://i.mazey.net/uploads/2022/01/822103401.jpg)
 
 ### 2.2 轮播
 
@@ -235,7 +235,7 @@ Glyphicons 字体图标使用示例：
 
 效果图：
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/230726-1024x398-1.jpg)
+![](https://i.mazey.net/uploads/2022/01/230726-1024x398-1.jpg)
 
 #### 2.2.2 进阶的轮播
 
@@ -310,7 +310,7 @@ Glyphicons 字体图标使用示例：
 
 效果图：
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/230452-1024x400-1.jpg)
+![](https://i.mazey.net/uploads/2022/01/230452-1024x400-1.jpg)
 
 ## 三、实战
 
@@ -318,15 +318,15 @@ Glyphicons 字体图标使用示例：
 
 电脑端效果图：
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/231151-1024x586-1.jpg)
+![](https://i.mazey.net/uploads/2022/01/231151-1024x586-1.jpg)
 
 移动端效果图：
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/231419-370x594-1.jpg)
+![](https://i.mazey.net/uploads/2022/01/231419-370x594-1.jpg)
 
 其实实现这样一个效果很简单，首先看一下栅格参数如何在多种屏幕设备上工作的。
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/823912301.jpg)
+![](https://i.mazey.net/uploads/2022/01/823912301.jpg)
 
 在新闻和资讯的盒子上同时加上样式 `col-xs-*`，`col-sm-*` 和 `col-md-*`，小屏时（屏幕宽度 ＜ 992px）`col-xs-*`，`col-sm-*` 生效，`col-md-*` 失效；大屏时（屏幕宽度 ≥ 992px）`col-md-*` 生效，`col-xs-*`，`col-sm-*` 失效。例如：`<div class="col-xs-12 col-sm-12 col-md-6">新闻</div><div class="col-xs-12 col-sm-12 col-md-6">资讯</div>`。
 

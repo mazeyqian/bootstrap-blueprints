@@ -27,7 +27,7 @@
 
 效果图：
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/827773559.jpg)
+![](https://i.mazey.net/uploads/2022/01/827773559.jpg)
 
 ##### 2.1.1.2 胶囊式标签页
 
@@ -46,7 +46,7 @@
 
 效果图：
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/827773632.jpg)
+![](https://i.mazey.net/uploads/2022/01/827773632.jpg)
 
 #### 2.1.2 带下拉框的标签页
 
@@ -72,7 +72,7 @@
 
 效果图：
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/827773750.jpg)
+![](https://i.mazey.net/uploads/2022/01/827773750.jpg)
 
 #### 2.1.3 响应式标签页
 
@@ -98,11 +98,11 @@
 
 大屏效果图：
 
-![按比例把不同标签页等分成几个部分](https://blog.mazey.net/wp-content/uploads/2022/01/827773951.jpg)
+![按比例把不同标签页等分成几个部分](https://i.mazey.net/uploads/2022/01/827773951.jpg)
 
 小屏效果图：
 
-![浏览器宽度小于768px时触发小屏显示效果](https://blog.mazey.net/wp-content/uploads/2022/01/827774153.jpg)
+![浏览器宽度小于768px时触发小屏显示效果](https://i.mazey.net/uploads/2022/01/827774153.jpg)
 
 #### 2.1.4 标签页内容
 
@@ -129,7 +129,7 @@
 
 效果图：
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/827803797.jpg)
+![](https://i.mazey.net/uploads/2022/01/827803797.jpg)
 
 ### 2.2 按钮
 
@@ -159,7 +159,7 @@
 
 效果图：
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/827774713.jpg)
+![](https://i.mazey.net/uploads/2022/01/827774713.jpg)
 
 #### 2.2.2 进阶的按钮
 
@@ -201,7 +201,7 @@
 
 效果图：
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/827777534.jpg)
+![](https://i.mazey.net/uploads/2022/01/827777534.jpg)
 
 ##### 2.2.2.2 块状按钮
 
@@ -217,7 +217,7 @@
 
 效果图：
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/827777763.jpg)
+![](https://i.mazey.net/uploads/2022/01/827777763.jpg)
 
 ### 2.3 表单
 
@@ -243,7 +243,7 @@ Bootstrap 对表单的 `<input>`/`<select>`/`<label>` 等表单元素都进行�
 
 效果图：
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/827777983.jpg)
+![](https://i.mazey.net/uploads/2022/01/827777983.jpg)
 
 #### 2.3.2 水平表单
 
@@ -286,7 +286,7 @@ Bootstrap 对表单的 `<input>`/`<select>`/`<label>` 等表单元素都进行�
 
 效果图：
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/827778277.jpg)
+![](https://i.mazey.net/uploads/2022/01/827778277.jpg)
 
 登录的话肯定少不了验证合理性，Bootstrap 提供校验状态的提示样式。在需要提示的 `<input>` 容器上加上样式 `has-*`（`success`、`warning`、`error`）。若想提示 √，× 或其他符号，在容器上加上样式 `has-feedback`，并且在样式 `form-control` 的 `<input>` 元素下面添加样式为 `form-control-feedback` 的 Glyphicons 字体图标。
 
@@ -329,7 +329,7 @@ Bootstrap 对表单的 `<input>`/`<select>`/`<label>` 等表单元素都进行�
 
 效果图：
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/827778385.jpg)
+![](https://i.mazey.net/uploads/2022/01/827778385.jpg)
 
 #### 2.3.3 输入框组
 
@@ -383,7 +383,7 @@ Bootstrap 对表单的 `<input>`/`<select>`/`<label>` 等表单元素都进行�
 
 效果图：
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/827778459.jpg)
+![](https://i.mazey.net/uploads/2022/01/827778459.jpg)
 
 这里的元素也可以替换成按钮，将样式 `input-group-addon` 替换成 `input-group-btn`，然后在里面包一个 `<button>` 元素即可。
 
@@ -401,13 +401,13 @@ Bootstrap 对表单的 `<input>`/`<select>`/`<label>` 等表单元素都进行�
 
 效果图：
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/827778526.jpg)
+![](https://i.mazey.net/uploads/2022/01/827778526.jpg)
 
 ## 三、实战
 
 用标签页 + 表单做一个可以切换登录和注册的模块。
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/827805044.jpg)
+![](https://i.mazey.net/uploads/2022/01/827805044.jpg)
 
 演示地址：[https://i.mazey.net/bootstrap-blueprints/lesson-third-login/index.html](https://i.mazey.net/bootstrap-blueprints/lesson-third-login/index.html)，源码地址：[https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-third-login](https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-third-login)。
 

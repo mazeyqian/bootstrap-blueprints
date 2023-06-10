@@ -4,7 +4,7 @@
 
 瀑布流是近几年流行起来的一种网页布局，视觉表现为参差不齐的多栏布局，本案例便是使用 Bootstrap 实现一个瀑布流布局。
 
-![瀑布流布局效果图](https://blog.mazey.net/wp-content/uploads/2021/12/lesson-first-waterfall-demo-800x849-1.jpg)
+![瀑布流布局效果图](https://i.mazey.net/uploads/2021/12/lesson-first-waterfall-demo-800x849-1.jpg)
 
 ## 二、相关的 Bootstrap 知识点
 
@@ -76,7 +76,7 @@
 
 `.col-md-*` 效果图：
 
-![效果图](https://blog.mazey.net/wp-content/uploads/2021/12/814835874.jpg)
+![效果图](https://i.mazey.net/uploads/2021/12/814835874.jpg)
 
 使用列偏移 `.col-md-offset-*` 示例：
 
@@ -106,7 +106,7 @@
 
 `.col-md-offset-*` 效果图：
 
-![效果图](https://blog.mazey.net/wp-content/uploads/2021/12/814835921.jpg)
+![效果图](https://i.mazey.net/uploads/2021/12/814835921.jpg)
 
 另外需要注意的是，不管 `.col-md-*` 和 `.col-md-offset-*` 怎么搭配使用都要保证 `*` 总和不超过 12，不然会发生断行现象。
 
@@ -155,7 +155,7 @@
 
 `.thumbnail` 效果图：
 
-![效果图](https://blog.mazey.net/wp-content/uploads/2021/12/814836067.jpg)
+![效果图](https://i.mazey.net/uploads/2021/12/814836067.jpg)
 
 ### 2.4 响应式图片
 
@@ -190,7 +190,7 @@
 
 改变图片形状效果图：
 
-![改变图片形状效果图](https://blog.mazey.net/wp-content/uploads/2021/12/814836134.jpg)
+![改变图片形状效果图](https://i.mazey.net/uploads/2021/12/814836134.jpg)
 
 ## 三、瀑布流布局实战
 
@@ -211,7 +211,7 @@
 
 效果图：
 
-![效果图](https://blog.mazey.net/wp-content/uploads/2021/12/814836227.jpg)
+![效果图](https://i.mazey.net/uploads/2021/12/814836227.jpg)
 
 然后用上面所看到的带描述的缩略图样式，每个缩略图又占这中间 10/12（看作一个整体）的 4/12，每行放三个缩略图，放三行。缩略图里的图片用响应式图片的样式 `.img-responsive` 和圆角样式 `.img-rounded` 修饰下。
 
@@ -275,7 +275,7 @@
 
 效果图：
 
-![效果图](https://blog.mazey.net/wp-content/uploads/2021/12/lesson-first-waterfall-normal-800x905-1.jpg)
+![效果图](https://i.mazey.net/uploads/2021/12/lesson-first-waterfall-normal-800x905-1.jpg)
 
 ### 3.2 实现瀑布流
 
@@ -315,7 +315,7 @@
 
 效果图：
 
-![效果图](https://blog.mazey.net/wp-content/uploads/2021/12/lesson-first-waterfall-ok-800x806-1.jpg)
+![效果图](https://i.mazey.net/uploads/2021/12/lesson-first-waterfall-ok-800x806-1.jpg)
 
 因为现在主流浏览器（Chrome/Firefox/Opera/Safari）都已经支持了 CSS 变量，为了方便调试和维护，上面的 CSS 代码也可以这么写。
 
