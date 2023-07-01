@@ -37,7 +37,7 @@
 
 效果图：
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/831670743.jpg)
+![](https://i.mazey.net/uploads/2022/01/831670743.jpg)
 
 样式 `media-left` 和 `media-right` 用来控制对象（头像）放置的左右，若要将对象（头像）放在右边需要把 `media-right` 放在 `media-body` 下面。
 
@@ -58,7 +58,7 @@
 
 效果图：
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/831671559.jpg)
+![](https://i.mazey.net/uploads/2022/01/831671559.jpg)
 
 当然要是不想放在下面也是有可行办法的，用 `pull-left` 和 `pull-right` 代替 `media-left` 和 `media-right` 即可。
 
@@ -89,7 +89,7 @@
 ```
 效果图：
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/831671938.jpg)
+![](https://i.mazey.net/uploads/2022/01/831671938.jpg)
 
 **注意：官方从 v3.3.0 版本开始就不再建议使用了 `.pull-left` 和 `.pull-right` 了。**
 
@@ -138,11 +138,11 @@
 
 效果图：
 
-![为了展示效果给图片加了50px的宽度。](https://blog.mazey.net/wp-content/uploads/2022/01/831672604.jpg)
+![为了展示效果给图片加了50px的宽度。](https://i.mazey.net/uploads/2022/01/831672604.jpg)
 
 虽说 Bootstrap 没有嵌套层数的限制，甚至可以这样无限嵌套。
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/831673281.jpg)
+![](https://i.mazey.net/uploads/2022/01/831673281.jpg)
 
 但一般来说不论是美感还是条理上来看，两层就已经足够了。
 
@@ -189,7 +189,7 @@
 
 效果图：
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/831674055.jpg)
+![](https://i.mazey.net/uploads/2022/01/831674055.jpg)
 
 #### 2.1.4 媒体对象列表
 
@@ -238,7 +238,7 @@
 
 效果图：
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/831674270.jpg)
+![](https://i.mazey.net/uploads/2022/01/831674270.jpg)
 
 两层嵌套的列表：
 
@@ -320,13 +320,13 @@
 
 效果图：
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/831674155.jpg)
+![](https://i.mazey.net/uploads/2022/01/831674155.jpg)
 
 ## 三、实战
 
 用 Bootstrap 媒体对象知识做一个豆瓣日记部分的评论列表。
 
-![](https://blog.mazey.net/wp-content/uploads/2022/01/831674385.jpg)
+![](https://i.mazey.net/uploads/2022/01/831674385.jpg)
 
 演示地址：[https://i.mazey.net/bootstrap-blueprints/lesson-fourth-comment/index.html](https://i.mazey.net/bootstrap-blueprints/lesson-fourth-comment/index.html)，源码地址：[https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-fourth-comment](https://github.com/mazeyqian/bootstrap-blueprints/tree/master/lesson-fourth-comment)。
 
